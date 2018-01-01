@@ -1,0 +1,21 @@
+{
+  "name": "HODL onl",
+  "short_name": "HODLonl",
+  "description": "Building and sharing tools that I find useful for cryptocurrencies.",
+  "icons": [
+    {
+      "src": "images/manifest/hodlonl-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/manifest/hodlonl-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#B1E0EF",
+  "background_color": "#B1E0EF"
+}
