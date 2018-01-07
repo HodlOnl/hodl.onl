@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["bower_components/webcomponentsjs/webcomponents-loader.js","f13bbbbf647b7922575a7894367ddaaf"],["images/favicon.ico","82b34d0faee76b89a9f946763428f668"],["index.html","b6c583c8b64e5080b4f361a1aa1b3f02"],["manifest.json","79f934deae13fd61b2683f4f5969ec0d"],["src/hodl-onl.html","1acd05d5e59ed5f303cf3fe24230033f"],["src/views/not-found-view.html","b6b58b698eece26a223d1c196a4ee4ab"],["src/views/price-quoter-view.html","635c0096b87236af69a77d6cfa8a60b1"],["src/views/reminder-view.html","6adf1176c39a815e94438c57b6fca7f8"]];
+var precacheConfig = [["bower_components/webcomponentsjs/webcomponents-loader.js","f13bbbbf647b7922575a7894367ddaaf"],["images/favicon.ico","82b34d0faee76b89a9f946763428f668"],["index.html","b6c583c8b64e5080b4f361a1aa1b3f02"],["manifest.json","79f934deae13fd61b2683f4f5969ec0d"],["src/hodl-onl.html","2cf9168fbf5f54bf22ca9392579c56f9"],["src/views/not-found-view.html","b6b58b698eece26a223d1c196a4ee4ab"],["src/views/price-quoter-view.html","512b23c58a7c04f332e8ba74e758e66c"],["src/views/reminder-view.html","6adf1176c39a815e94438c57b6fca7f8"]];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
